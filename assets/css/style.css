@@ -25,6 +25,26 @@ h1{
     font-size:60px;
     color: #707070;
 }
+/*Estilos cards especificos*/
+h5{
+    font-family: "OpenSans Bold";
+    font-size: 17px;
+    text-align: start;
+}
+.card-text{
+    font-family: "OpenSans Regular";
+    font-size: 16px;
+    text-align: start;
+}
+
+.list-group-item{
+    font-family: "OpenSans Regular";
+    font-size: 11px;
+}
+.card-link{
+    font-family: "OpenSans Regular";
+    font-size: 11px;
+}
 
 /*Estilos pie de pagina*/
 footer{
