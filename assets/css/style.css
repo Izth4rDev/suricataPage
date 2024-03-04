@@ -2,7 +2,6 @@
     font-family: "OpenSans Bold";
     src: url(/assets/fonts/OpenSans-Bold.ttf);
 }
-
 @font-face {
     font-family: "OpenSans Regular";
     src: url(/assets/fonts/OpenSans-Regular.ttf);
@@ -11,7 +10,37 @@
 #navbarNav ul{
     font-family: "OpenSans Regular";
 }
-
 #navContainer{
+    background-color: #E83E8C;
+}
+#suricata_logo{
+    width: 123px;
+    margin-left:5rem;
+}
+.nav-item a{
+    font-family: "OpenSans Regular";
+}
+h1{
+    font-family: "OpenSans Bold";
+    font-size:60px;
+    color: #707070;
+}
+
+/*Estilos pie de pagina*/
+footer{
+    margin-top:4rem;
+}
+#pago_container{
+    background-color: #17A2B8;
+}
+h2{
+    font-family: "OpenSans Bold";
+    font-size:40px;
+    color: #FFFFFF;
+}
+#suricata_footer{
+    width: 53px;
+}
+#footer_second{
     background-color: #E83E8C;
 }
