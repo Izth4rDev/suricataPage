@@ -6,7 +6,7 @@
     font-family: "OpenSans Regular";
     src: url(/assets/fonts/OpenSans-Regular.ttf);
 }
-
+/*Estilos header y navbar*/
 #navbarNav ul{
     font-family: "OpenSans Regular";
 }
@@ -20,12 +20,12 @@
 .nav-item a{
     font-family: "OpenSans Regular";
 }
+/*Estilos main y cards especificos*/
 h1{
     font-family: "OpenSans Bold";
     font-size:60px;
     color: #707070;
 }
-/*Estilos cards especificos*/
 h5{
     font-family: "OpenSans Bold";
     font-size: 17px;
@@ -36,7 +36,6 @@ h5{
     font-size: 16px;
     text-align: start;
 }
-
 .list-group-item{
     font-family: "OpenSans Regular";
     font-size: 11px;
@@ -45,8 +44,7 @@ h5{
     font-family: "OpenSans Regular";
     font-size: 11px;
 }
-
-/*Estilos pie de pagina*/
+/*Estilos footer*/
 footer{
     margin-top:4rem;
 }
